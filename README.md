@@ -24,7 +24,7 @@ This data analysis project aims to provide insights about individuals from diffe
 
 ### Data Sources 
 
-Survey Data: The primary dataset usedused for this analyis is the "Survey_data.excel" file, containing detailed information about IT workers from around the world
+Survey Data: The primary dataset usedused for this analyis is the "Survey_data.xlxs" file, containing detailed information about IT workers from around the world
 
 ### Tools 
 

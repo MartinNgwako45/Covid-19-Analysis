@@ -13,7 +13,13 @@
 
 ### Project Overview 
 
-This data analysis project aims to provide insights about individuals from different countries and continents through a survey by looking into the following aspects such as 
+This data analysis project aims to provide insights about individuals from different countries and continents through a survey by looking at different aspects in terms analyzing how they got into the tech industry, how difficult was it to get their first job.
+
+
+[Dashborad](dashboard.png)
+
+![Dashboard](https://github.com/user-attachments/assets/bb561899-8f6d-493a-b007-bb0eb9a1d86c)
+
 
 
 ### Data Sources 
